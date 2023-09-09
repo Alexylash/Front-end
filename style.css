@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.profile {
+    text-align: center;
+}
+#slackUserName {
+    font-size: 24px;
+    font-weight: bold;
+}
+#slackDisplayImage {
+    max-width: 200px;
+    border-radius: 50%;
+    margin: 20px auto;
+}
